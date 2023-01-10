@@ -1,4 +1,31 @@
-﻿<Properties StartupConfiguration="{D8185E16-1DAF-43EA-9EA1-DDBD756C2721}|https">
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="JokesApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs">
+    <Files>
+      <File FileName="JokesApp/Models/ErrorViewModel.cs" Line="11" Column="1" IsPinned="True" />
+      <File FileName="JokesApp/Views/Home/Index.cshtml" />
+      <File FileName="JokesApp/Views/Home/Privacy.cshtml" />
+      <File FileName="JokesApp/Views/Shared/_Layout.cshtml" />
+      <File FileName="JokesApp/Views/Shared/_LoginPartial.cshtml" />
+      <File FileName="JokesApp/app.db" />
+      <File FileName="JokesApp/Program.cs" />
+      <File FileName="JokesApp/Models/Joke.cs" />
+      <File FileName="JokesApp/Views/Jokes/Create.cshtml" />
+      <File FileName="JokesApp/Controllers/JokesController.cs" />
+      <File FileName="JokesApp/Data/Migrations/00000000000000_CreateIdentitySchema.cs" Line="188" Column="38" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="JokesApp" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JokesApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.JokesApp FirstBuild="True" />
 </Properties>
